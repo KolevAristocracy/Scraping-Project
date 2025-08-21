@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+
+# Sensitive files
+playwright/.auth
+*.key
+*.env
+
+# Bytecode
+__pycache__/
+*.pyc
