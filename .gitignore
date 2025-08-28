@@ -12,3 +12,5 @@ playwright/.auth
 # Bytecode
 __pycache__/
 *.pyc
+
+playwright/testing.py
